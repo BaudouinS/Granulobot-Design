@@ -1,0 +1,64 @@
+﻿Part,QTY,Manufacturer,Part Ref (manufacturer),Package,Descritpion,Supplier,old name,Link
+,,,,,,,,
+"C1,C2,C6,C14",4,MULTICOMP PRO,MC0402X104K250CT,0402MP,Ceramic capacitor 0.1uF ,Newark,,https://www.newark.com/multicomp/mc0402x104k250ct/ceramic-capacitor-rohs-compliant/dp/06X6159?ost=06x6159
+"C3,C10",2,SAMSUNG ELECTRO-MECHANICS, CL10A106KP8NNNC,0603MP,Ceramic Capacitor 10UF,digikey,,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106KP8NNNC/3886850?s=N4IgTCBcDaIMIBkCMAGAgqgbAaQAoA4A5YuEAXQF8g
+C4,1,MURATA,GJM1555C1HR75BB01D,0402MP,Ceramic Capacitor 0.75pF,digikey,,https://www.digikey.com/en/products/detail/GJM1555C1HR75BB01D/490-8106-1-ND/4380393?itemSeq=347688887
+C5,1,KEMET,C0402C159B5GACTU,0402MP,Ceramic Capacitor 1.5pF,digikey,,https://www.digikey.com/en/products/detail/kemet/C0402C159B5GACTU/3316947
+"C7,C12",2,MURATA,GRT155R70J105KE01D,0402MP,Ceramic capacitor 1uF ,digikey,,https://www.digikey.com/en/products/detail/GRT155R70J105KE01D/490-18216-1-ND/9867945?itemSeq=347689425
+C8,1,MULTICOMP PRO,MCSH18B104K250CT,0603-NO,Ceramic capacitor 0.1uF ,newark,,https://www.newark.com/multicomp/mcsh18b104k250ct/ceramic-capacitor-rohs-compliant/dp/23T7348?ost=23t7348
+C13,1,TAIYO YUDEN,LMK212BJ106KG-T,0805-NO,Ceramic Capacitor 10UF,digikey,,https://www.digikey.com/en/products/detail/taiyo-yuden/LMK212BJ106KG-T/930652?s=N4IgTCBcDaIDIFkDSYCMYBCApVAGAbEgOIC0AKiALoC%2BQA
+C15,1,MULTICOMP PRO,MCSH21B104K100CT,0805-NO,Ceramic capacitor 0.1uF ,newark,,https://www.newark.com/multicomp/mcsh21b104k100ct/ceramic-capacitor-rohs-compliant/dp/23T7403?ost=23t7403
+"C16,C17",2,YAGEO,CC0805KKX5R8BB106,0805-NO,Ceramic Capacitor 10UF,digikey,,https://www.digikey.com/en/products/detail/yageo/CC0805KKX5R8BB106/5195275?s=N4IgTCBcDaIMJwAwA5EFYDSGAaaBKyAQoQIyIBsIAugL5A
+Cbst,1,MuRata,GRM155R71A104KA01D,0402_,Ceramic capacitor 0.1uF ,digikey,,
+Cc1,1,MuRata,GRM1555C1H391JA01J,0402_,Ceramic capacitor 390pF,digikey,,
+Cc2,1,TDK,C0402C0G1C180J020BC,01005_,Ceramic capacitor 18 pF,digikey,,
+Cin,1,MuRata,GRM21BR61A226ME44L,0805_,Ceramic capacitor 12uF,digikey,,
+Cin2,1,MuRata,GRM155R71C104KA88D,0402_,Ceramic capacitor 0.1uF ,digikey,,
+Cout,1,TDK,C3216X5R1E476M160AC,1206_,Ceramic capacitor 47 uF,digikey,,
+Cvcc,1,MuRata,GRJ155R61A475ME1J,0402_,Ceramic capacitor 4.7 uF ,Mouser,,
+,,,,,,,,
+"R1,R8",2,PANASONIC,ERJ-2RKF2001X,_0402MP,RESISTOR 2K,digikey,,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF2001X/192194?s=N4IgTCBcDaIKICUBSBaMCDSAxMAGXAjABogC6AvkA
+"R2,R9",2,NIC COMPONENTS,NRC-AS06F1002TRF,R0603,RESISTOR 10K,newark,,https://www.newark.com/nic-components/nrc-as06f1002trf/res-10k-1-0-1w-0603-thick-film/dp/52AH2942?st=nrc-as06f1002trf
+R3,1,PANASONIC,ERJ-2RKF3301X,_0402MP,RESISTOR 3K3,newark,,https://www.newark.com/panasonic/erj-2rkf3301x/res-thick-film-3k3-1-0-1w-0402/dp/64R5278?st=erj-2rkf3301x%E2%80%8E
+R4,1,PANASONIC,ERJ-2RKF1002X,_0402MP,RESISTOR 10K,newark,,https://www.newark.com/panasonic/erj-2rkf1002x/res-thick-film-10k-1-0-1w-0402/dp/64R5248?ost=erj-2rkf1002x
+"R5,R11",2,MULTICOMP PRO,MCWR04X1003FTL,_0402MP,RESISTOR 100K,newark,"R5,R12",https://www.newark.com/multicomp-pro/mcwr04x1003ftl/res-100k-1-62-5mw-0402-thick-film/dp/94X1105?st=mcwr04x1003ftl
+R6,1,PANASONIC,ERJ-2RKF4423X,_0402MP,RESISTOR 442K,digikey,,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF4423X/192365?s=N4IgTCBcDaIKICUBSBaMCDSAxALDsAzABogC6AvkA
+R7,1,VISHAY,CRCW0402160KFKED,_0402MP,RESISTOR 160K,newark,,https://www.newark.com/vishay/crcw0402160kfked/res-thick-film-160k-1-0-063w-0402/dp/89M6611?st=crcw0402160kfked
+R10,1,OHMITE,KDV12FR200ET,_1206,RESISTOR 0.2R 0.2ohm,newark,R11,https://www.newark.com/ohmite/kdv12fr200et/0-2-ohm-1206-1-0-5w-rohs-compliant/dp/29AH2849?ost=kdv12fr200et
+RC1,1,Yageo,RC0201FR0723K7L,R0201,RESISTOR 23.7k,digikey,,https://www.digikey.com/en/products/detail/yageo/RC0201FR-0723K7L/5280384?s=N4IgTCBcDaIEoGEAMYkEYBicC0SDsYAzANJ4AyIAugL5A
+Rfbb,1,Yageo,RC0603FR-0782KL,R0603,RESISTOR 82 k,digikey,,
+Rfbt,1,Vishay-Dale,CRCW0402324KFKED,R0402,RESISTOR 324 k,digikey,,
+Rlim,1,Vishay-Dale,CRCW0402187KFKED,R0402,RESISTOR 187 k,Mouser,,
+Rt,1,Vishay-Dale,CRCW020168K1FKED,R0201,RESISTOR 68.1 k,Mouser,,
+,,,,,,,,
+D1,1,WURTH ELEKTRONIK,150040SS73220,_0402,LED red,digikey,,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150040SS73220/9857944?s=N4IgTCBcDaIIwFYAMSAsSDKGDsBmMYSIAugL5A
+D2,1,DIALIGHT,5988A30107F,_0402,LED Orange,digikey,D3,https://www.digikey.com/en/products/detail/dialight/5988A30107F/10108964?s=N4IgTCBcDaIKwE4AcSCCBmADARkwdgDEQBdAXyA
+D3,1,STMICROELECTRONICS,BAT60JFILM,SOD323_ST,Schottky barrier diode,eBay,D4,
+D4,1,ADAFRUIT,_3341,AP102-2020,APA-102 RGB LED,digikey,LED1,https://www.digikey.com/en/products/detail/adafruit-industries-llc/3341/6578337
+,,,,,,,,
+L1,1,COILCRAFT,0402DC-7N5XGRW,0402_N,INDUCTOR 7.5nH High Q at 2.4GHz (for Wifi antenna),digikey,,https://www.digikey.com/en/products/detail/coilcraft/0402DC-7N5XGRW/12714785?s=N4IgTCBcDaIAwBY5gCYGMC0B2AdgVgA8BzAJwHcQBdAXyA
+L2,1,Vishay-Dale,IHLP1212AEERR47M11,,INDUCTOR 470nH  DCR: 15 mΩ  IDC: 6.7 A  ,digikey,,https://www.digikey.com/en/products/detail/vishay-dale/IHLP1212AEERR47M11/2533925?s=N4IgTCBcDaIJIAkAyAFAjGDBBAojgSvgCwDsAsmmiALoC%2BQA
+,,,,,,,,
+T1,1,Nexperia ,"PDTA143TMB,315",SOT883(B),PNP general purpose transistors,Mouser,"PDTA143TMB,315",https://www.mouser.com/ProductDetail/Nexperia/PDTA143TMB315?qs=%2Fha2pyFaduhNWQRJlSbbvEl02AtP8mQEnQFKjHQLqLVfp4NNK74MOQ%3D%3D
+T2,1,ON Semiconductor,NTNS3A65PZT5G,SOT883,MOSFET P-CH 20V 281MA ,digikey,,https://www.digikey.com/en/products/detail/on-semiconductor/NTNS3A65PZT5G/4848843?s=N4IgTCBcDaIHIBU4GUDMBBAbAVgAoC0FsBxEAXQF8g
+T3,1,ON SEMICONDUCTOR,MUN5214DW1T1G,SOT-363 ,DUAL NPN transistor SC70-6,newark,Q3,https://www.newark.com/on-semiconductor/mun5214dw1t1g/brt-transistor-50v-47k-10kohm/dp/10N9540
+,,,,,,,,
+U1,1,ON SEMICONDUCTOR,NCP167BMX330TBG,4-XDFN,LDO 700 MA ULTRA-LOW NOI,digikey,,https://www.digikey.com/en/products/detail/on-semiconductor/NCP167BMX330TBG/9169761?s=N4IgTCBcDaIHIGEAKBGAbAdgEIFkAaAzAQAwAqWA4iALoC%2BQA
+U2,1,Texas Instruments,TPS61089RNRR,VQFN,"12.6-V, 7-A Fully-Integrated Synchronous Boost Converters",Texas Instrument,,https://www.ti.com/store/ti/en/p/product/?p=TPS61089RNRR
+U3,1,Texas Instruments,DRV8833PWPR,16-HTSSOP,IC MOTOR DRIVER PAR 16HTSSOP,Texas Instrument,,https://www.ti.com/store/ti/en/p/product/?p=DRV8833PWPR
+U4,1,SILICON LABS, CP2104-F03-GMR,24QFN,USB TO SERIAL CONVERTER MICROBUILDER,digikey,IC2,https://www.digikey.com/en/products/detail/CP2104-F03-GMR/336-4146-1-ND/7650425?itemSeq=346297763
+CHRG,1,Microchip Technology,MCP73831T-2ACI/OT,SOT23-5,IC BATT CNTL LI-ION 1CEL,digikey,,https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301
+LSM6,1,STMicroelectronics,LSM6DSOXTR,14-VFLGA,INEMO INERTIAL MODULE: 3D ACCELE,Mouser,ISM330,https://www.mouser.com/ProductDetail/511-LSM6DSOXTR
+ESP32,1,Espressif Systems ,ESP32-PICO-D4 ,QFN-48 ,ESP32-PICO-D4,Mouser,PICO-D4 ,https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-PICO-D4/?qs=MLItCLRbWsw7MJlbN3HfdA%3D%3D
+TLV,1,Infineon Technologies ,TLV493DA1B6HTSA2 ,TSOP-6 ,Board Mount Hall Effect / Magnetic Sensors ,Mouser,TLV493D,https://www.mouser.com/ProductDetail/Infineon-Technologies/TLV493DA1B6HTSA2/?qs=%2Fha2pyFaduivVm%2F7PF9Ek94GCst7qjk5M1mEa1SrsTU%3D
+,,,,,,,,
+J1,1,Amphenol ICC (FCI),10118193-0001LF,,"USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole	",digikey,,https://www.digikey.com/en/products/detail/amphenol-icc-fci/10118193-0001LF/2785388?s=N4IgTCBcDaIIwAY5wBxwJwGYC0C9wBkAxEAXQF8g
+J2,1,JST ,B6B-ZR(LF)(SN),ZR,ZR Series 1.5 mm Pitch 6 Position Through Hole Top Entry Shrouded Heade Check prices,digikey,,https://www.digikey.com/en/products/detail/amphenol-icc-fci/10118193-0001LF/2785388?s=N4IgTCBcDaIIwAY5wBxwJwGYC0C9wBkAxEAXQF8g
+"J3, J4",2,JST,B2B-PH-SM4-TB(LF)(SN),PH,B2B-PH-SM4-TB,newark,"LIPO-CON-1,LIPO-CON-2",https://www.newark.com/jst-japan-solderless-terminals/b2b-ph-sm4-tb-lf-sn/wire-to-board-connector-header/dp/37K9941
+,,,,,,,,
+KMR2,1,C & K COMPONENTS,KMR241NG ULC LFS ,BTN_KMR2_4.6X2.8,Push button (Reset ),newark,,https://www.newark.com/c-k-components/kmr241ng-ulc-lfs/tact/dp/35AH0932?st=kmr241ng
+ANT,1,Proant AB,PRO-OB-440,,RF ANT 2.4GHZ STAMPED MET SLD,digikey,,https://www.digikey.com/en/products/detail/proant-ab/PRO-OB-440/4895679?s=N4IgTCBcDaIA4CcD2BaJAjFAWLAGEAugL5A
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Total Items,61,,,,,,,

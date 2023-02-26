@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-02-27T18:01:55Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.584,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "Granulobot_V10"
+        },
+        "Owner": "baudouin saintyves <saintyves@uchicago.edu>",
+        "Size": {
+            "X": 42.418,
+            "Y": 42.418
+        }
+    }
+}
